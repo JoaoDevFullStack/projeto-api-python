@@ -1,0 +1,28 @@
+# Ignore build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ist/
+[Dd]ebug/
+[Dd]ebug7/
+[Dd]ebug_X64/
+
+# Ignore user-specific files
+.vs/
+.idea/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environments
+venv/
+env/
+
+
